@@ -47,13 +47,6 @@ The scheme as a set of multi-function background frame templates, suitable for m
 	|-- package.json                     // Dependent configuration file
 	|-- README.md                        // Readme
 
-
-## Installation steps ##
-
-	git clone https://github.com/lin-xin/manage-system.git		// Clone templates
-	cd manage-system											// Enter template directory
-	npm install													// Installation dependency
-
 ## Local development ##
 
 	// Open server and access http://localhost:8080 in browser
